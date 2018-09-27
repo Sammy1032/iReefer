@@ -1,6 +1,6 @@
 {
-	"versionCode":3,
-	"versionName":"1.0.2",
+	"versionCode":1,
+	"versionName":"1.0.0",
 	"fileSize":"7.36M",
 	"apkUrl":"https://raw.githubusercontent.com/Sammy1032/iReefer/master/app-debug.apk",
 	"required":true,
