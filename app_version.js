@@ -1,9 +1,9 @@
 {
-	"versionCode":1,
-	"versionName":"1.0.0",
+	"versionCode":2,
+	"versionName":"1.0.1",
 	"fileSize":"7.36M",
 	"apkUrl":"https://raw.githubusercontent.com/Sammy1032/iReefer/master/app-debug.apk",
 	"required":true,
-	"releaseDate":"2018-09-28 12:45:20",
-	"releaseNotes":["新版本特性新版本特性新版本特性；", "描述版本信息，方便用户选择是否立即下载更新；", "性能优化和BUG修复。"]
+	"releaseDate":"2018-09-30 17:11:20",
+	"releaseNotes":["修正手動GPS時間", "新增LT"]
 }
