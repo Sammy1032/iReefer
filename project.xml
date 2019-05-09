@@ -1,6 +1,6 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
-    <update appId="iReefer"> 
+    <update> 
         <version>1.0.0.1</version> 
         <url>https://raw.githubusercontent.com/Sammy1032/iReefer/master/iReefer/iReefer.exe</url> 
         <filePath>./iReefer.exe</filePath>
