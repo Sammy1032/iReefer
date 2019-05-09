@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>2.0.0.0</version> 
+        <version>1.0.0.1</version> 
         <url>https://raw.githubusercontent.com/Sammy1032/iReefer/master/iReefer/iReefer.exe</url> 
         <filePath>./iReefer.exe</filePath>
         <md5>3780c9ed76e54453e834bb6f7a7f3f65</md5>
@@ -10,7 +10,7 @@
     </update>
     
     <add> 
-        <version>1.0.0.0</version> 
+        <version></version> 
         <url></url> 
         <filePath></filePath>
         <md5></md5>
@@ -19,7 +19,7 @@
     </add>
     
     <remove>
-        <filePath>1.0.0.0</filePath>
+        <filePath></filePath>
         <description></description> 
         <launchArgs></launchArgs> 
     </remove>
