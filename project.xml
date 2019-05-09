@@ -8,7 +8,6 @@
         <description>test update</description> 
         <launchArgs></launchArgs> 
     </update>
-    
     <add> 
         <version></version> 
         <url></url> 
@@ -17,7 +16,6 @@
         <description></description> 
         <launchArgs></launchArgs> 
     </add>
-    
     <remove>
         <filePath></filePath>
         <description></description> 
