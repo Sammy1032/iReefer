@@ -1,11 +1,11 @@
 <?xml version="1.0"?> 
 <sharpUpdate> 
     <update> 
-        <version>1.0.0.0</version> 
-        <url></url> 
-        <filePath></filePath>
-        <md5></md5>
-        <description></description> 
+        <version>1.0.0.1</version> 
+        <url>https://raw.githubusercontent.com/Sammy1032/iReefer/master/iReefer/iReefer.exe</url> 
+        <filePath>./iReefer.exe</filePath>
+        <md5>3780c9ed76e54453e834bb6f7a7f3f65</md5>
+        <description>test update</description> 
         <launchArgs></launchArgs> 
     </update>
     
