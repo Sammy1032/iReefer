@@ -8,17 +8,4 @@
         <description>test update</description> 
         <launchArgs></launchArgs> 
     </update>
-    <add> 
-        <version></version> 
-        <url></url> 
-        <filePath></filePath>
-        <md5></md5>
-        <description></description> 
-        <launchArgs></launchArgs> 
-    </add>
-    <remove>
-        <filePath></filePath>
-        <description></description> 
-        <launchArgs></launchArgs> 
-    </remove>
 </sharpUpdate>
